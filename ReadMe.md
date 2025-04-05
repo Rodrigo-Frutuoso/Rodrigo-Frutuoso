@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am currently a young person studying programming and software at the Faculty of Sciences, University of Lisbon.
+# Hello, I'm Rodrigo Frutuoso 👋
+
+## 🚀 About Me
+🎓 I'm a software and programming student at the Faculty of Sciences, University of Lisbon.  
+💻 Passionate about technology, coding, and always looking to improve my skills.  
+📚 Open to collaborating on interesting projects and learning from other developers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-frutuoso/) 
@@ -9,10 +13,12 @@ I am currently a young person studying programming and software at the Faculty o
 ## 💻 Tech Stack:
 
 ### 🧠 Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%235e4fa2.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-525252?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### 🎨 Web:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,12 +26,18 @@ I am currently a young person studying programming and software at the Faculty o
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Databases:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🛠️ Tools & Platforms:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+### 🧰 Tools & Workflow:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -37,4 +49,3 @@ I am currently a young person studying programming and software at the Faculty o
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Rodrigo-Frutuoso&icon=0&color=0)](https://visitcount.itsvg.in)
-

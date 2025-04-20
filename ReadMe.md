@@ -6,7 +6,7 @@
 📚 Open to collaborating on interesting projects and learning from other developers.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 

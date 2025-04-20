@@ -5,6 +5,11 @@
 💻 Passionate about technology, coding, and always looking to improve my skills.  
 📚 Open to collaborating on interesting projects and learning from other developers.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="languages graph"  />
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-frutuoso/) 
 
@@ -41,14 +46,3 @@
 
 ### 🛠️ Build Tools:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rodrigo-Frutuoso&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Rodrigo-Frutuoso&icon=0&color=0)](https://visitcount.itsvg.in)

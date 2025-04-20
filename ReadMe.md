@@ -1,6 +1,5 @@
 # Hello, I'm Rodrigo Frutuoso 👋
 
-## 🚀 About Me
 🎓 I'm a software and programming student at the Faculty of Sciences, University of Lisbon.  
 💻 Passionate about technology, coding, and always looking to improve my skills.  
 📚 Open to collaborating on interesting projects and learning from other developers.

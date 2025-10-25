@@ -12,6 +12,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-frutuoso/) 
 
+## 🎓 Certifications:
+<a href="https://certificates.cs50.io/288da34d-3dce-4dbb-8189-14ba51c63c4c.pdf?size=letter">
+  <img src="https://img.shields.io/badge/CS50x-00A4EF?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x" />
+</a>
+
 ## 💻 Tech Stack:
 
 ### 🧠 Languages:

@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&count_private=true&layout=compact&langs_count=20" height="198" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&count_private=true&layout=compact&langs_count=20" height="190" alt="languages graph"  />
 </div>
 
 ## 🌐 Socials:

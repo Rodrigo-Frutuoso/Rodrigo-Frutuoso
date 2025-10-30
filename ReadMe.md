@@ -5,11 +5,9 @@
 📚 Open to collaborating on interesting projects and learning from other developers.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&count_private=true&layout=compact&langs_count=20" height="150" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&count_private=true&card_width=520&langs_count=9" height="200" alt="languages graph"  />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Frutuoso&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Frutuoso&theme=dark&hide_border=false&count_private=true&layout=compact&langs_count=20" height="200" alt="languages graph"  />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-frutuoso/) 
